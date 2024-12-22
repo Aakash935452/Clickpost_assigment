@@ -1,5 +1,5 @@
-EDD Estimation for E-Commerce - Short Report
-\U)
+**EDD Estimation for E-Commerce - Short Report**
+
 Project Implementation: Google Colab
 ---
 Project Overview:
