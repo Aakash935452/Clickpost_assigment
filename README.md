@@ -1,5 +1,8 @@
-**EDD Estimation for E-Commerce - Short Report**
-
+EDD Estimation for E-Commerce - Short Report
+Student Name: Aakash
+Roll No: 2K21/EC/002
+Branch: Electronics and Communication Engineering (ECE)
+College: Delhi Technological University (DTU)
 Project Implementation: Google Colab
 ---
 Project Overview:
